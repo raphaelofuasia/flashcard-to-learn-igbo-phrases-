@@ -1,1 +1,1 @@
-# flashcard-to-learn-igbo-phrases-
+created a flashcard that helps learn igbo phrases using python's tkinter library.
