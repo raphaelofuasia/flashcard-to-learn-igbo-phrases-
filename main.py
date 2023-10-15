@@ -69,4 +69,4 @@ next_card()
 
 window.mainloop()
 
-import requests
+
